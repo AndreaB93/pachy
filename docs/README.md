@@ -1,4 +1,4 @@
-# pachy — Quick Start
+# Pachy — Quick Start
 
 pachy is a minimal PHP 8.5 architectural framework. No ORM, no magic, no lock-in.
 
