@@ -1,0 +1,9 @@
+/vendor/
+/.env
+/storage/logs/*.log
+/storage/cache/*
+/storage/locks/*.lock
+!storage/logs/.gitkeep
+!storage/cache/.gitkeep
+!storage/locks/.gitkeep
+composer.lock
